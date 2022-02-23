@@ -1,0 +1,5 @@
+* Variables: Son spacios de memoria en el cual se van aguardar datos.
+ * Strings: Son un tipo de dato que corresponde a caracteres y estos siembre deben ir entre comillas simples o dobles.
+ * Funciones (argumentos, `return`): Las funciones son porciones de código que reutilizables que se sirben para realizar taréas especifica. Las funciones pueden recibir argumentos que son los valores que seran necesarios para ejecutar la función y devolver el resultado. Retornamos el resultado de la ejecución de la función con la palabra reservada return.
+ * Declaraciones `if`: Son condicionales que evaluan si una sentencia se cumple o no y de acuerdo a esto genera un resultado diferente o toma determinado camino.
+ * Valores booleanos (`true`, `false`): Son tipos de datos que solo devuelven verdadero o falso
